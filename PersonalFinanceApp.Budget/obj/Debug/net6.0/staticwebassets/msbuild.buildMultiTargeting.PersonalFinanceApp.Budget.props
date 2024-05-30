@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PersonalFinanceApp.Budget.props" />
+</Project>

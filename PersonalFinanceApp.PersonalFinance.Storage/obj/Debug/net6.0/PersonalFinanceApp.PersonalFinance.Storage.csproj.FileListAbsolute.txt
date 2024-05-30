@@ -1,0 +1,14 @@
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\bin\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.deps.json
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\bin\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.runtimeconfig.json
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\bin\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.dll
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\bin\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.pdb
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.AssemblyInfo.cs
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.dll
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\refint\PersonalFinanceApp.PersonalFinance.Storage.dll
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.pdb
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\PersonalFinanceApp.PersonalFinance.Storage.genruntimeconfig.cache
+C:\Users\home\source\repos\PersonalFinanceApp.PersonalFinance.Storage\obj\Debug\net6.0\ref\PersonalFinanceApp.PersonalFinance.Storage.dll

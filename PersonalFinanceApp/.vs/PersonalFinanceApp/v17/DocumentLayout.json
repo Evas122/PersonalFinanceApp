@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55C93BC-3F82-44BC-BEE3-46B639DFD62E}|..\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.common.storage\\technicaltrainingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B6CFDE-F073-400A-A225-D1E53C414F2D}|..\\PersonalFinanceApp.Budget.Storage\\PersonalFinanceApp.Budget.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.budget.storage\\budgetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051DC12E-EBE5-47AC-830A-4906E23F04D8}|..\\PersonalFinanceApp.User.Storage\\PersonalFinanceApp.User.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.user.storage\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9494B44-92C4-4DA4-B340-9112B6F42A56}|..\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.report.storage\\reportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB441430-DD30-4B7E-8C03-FDA94851EEC6}|..\\PersonalFinanceApp.Transaction.Storage\\PersonalFinanceApp.Transaction.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.transaction.storage\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9494B44-92C4-4DA4-B340-9112B6F42A56}|..\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.report.storage\\personalfinanceapp.report.storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B4643E-283A-4CA3-AED0-DDAFA298DB1F}|..\\PersonalFinanceApp.Common.CrossCutting\\PersonalFinanceApp.Common.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.common.crosscutting\\dtos\\crudoperationresultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B4643E-283A-4CA3-AED0-DDAFA298DB1F}|..\\PersonalFinanceApp.Common.CrossCutting\\PersonalFinanceApp.Common.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.common.crosscutting\\dtos\\crudoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B6CFDE-F073-400A-A225-D1E53C414F2D}|..\\PersonalFinanceApp.Budget.Storage\\PersonalFinanceApp.Budget.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.budget.storage\\entities\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A81FA7-E590-4F6C-AF1D-255BB8E3630D}|..\\PersonalFinanceApp.Transaction.CrossCutting\\PersonalFinanceApp.Transaction.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.transaction.crosscutting\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CF325-ED71-43C5-AC99-2A44E38319EF}|..\\PersonalFinanceApp.Report.CrossCutting\\PersonalFinanceApp.Report.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.report.crosscutting\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF32E0-F9A0-437D-B6D6-E4F603BDCADF}|..\\PersonalFinanceApp.Budget.CrossCutting\\PersonalFinanceApp.Budget.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.budget.crosscutting\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5797679D-9EF8-4E0D-9489-0F6F35136C29}|..\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.user.crosscutting\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051DC12E-EBE5-47AC-830A-4906E23F04D8}|..\\PersonalFinanceApp.User.Storage\\PersonalFinanceApp.User.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.user.storage\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB441430-DD30-4B7E-8C03-FDA94851EEC6}|..\\PersonalFinanceApp.Transaction.Storage\\PersonalFinanceApp.Transaction.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.transaction.storage\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB441430-DD30-4B7E-8C03-FDA94851EEC6}|..\\PersonalFinanceApp.Transaction.Storage\\PersonalFinanceApp.Transaction.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.transaction.storage\\enums\\transactioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9494B44-92C4-4DA4-B340-9112B6F42A56}|..\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.report.storage\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF32E0-F9A0-437D-B6D6-E4F603BDCADF}|..\\PersonalFinanceApp.Budget.CrossCutting\\PersonalFinanceApp.Budget.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.budget.crosscutting\\dtos\\budgetcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B6CFDE-F073-400A-A225-D1E53C414F2D}|..\\PersonalFinanceApp.Budget.Storage\\PersonalFinanceApp.Budget.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.budget.storage\\entities\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55C93BC-3F82-44BC-BEE3-46B639DFD62E}|..\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.common.storage\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5797679D-9EF8-4E0D-9489-0F6F35136C29}|..\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.user.crosscutting\\personalfinanceapp.user.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55C93BC-3F82-44BC-BEE3-46B639DFD62E}|..\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj|c:\\users\\home\\source\\repos\\personalfinanceapp.common.storage\\personalfinanceapp.common.storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\BudgetDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Budget.Storage\\BudgetDbContext.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\BudgetDbContext.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Budget.Storage\\BudgetDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:21:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\ReportDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Report.Storage\\ReportDbContext.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\ReportDbContext.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Report.Storage\\ReportDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:21:57.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Transaction.Storage\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\TransactionDbContext.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Transaction.Storage\\TransactionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:22:08.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TechnicalTrainingContext.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\TechnicalTrainingContext.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Common.Storage\\TechnicalTrainingContext.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\TechnicalTrainingContext.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Common.Storage\\TechnicalTrainingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:21:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.Storage\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.User.Storage\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.Storage\\UserDbContext.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.User.Storage\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:20:59.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalFinanceApp.Report.Storage.csproj",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Report.Storage\\PersonalFinanceApp.Report.Storage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T18:24:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BudgetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\Entities\\BudgetCategory.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Budget.Storage\\Entities\\BudgetCategory.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\Entities\\BudgetCategory.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Budget.Storage\\Entities\\BudgetCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:22:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrudOperationResultStatus.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResultStatus.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResultStatus.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResultStatus.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResultStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrudOperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResult.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResult.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResult.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Common.CrossCutting\\Dtos\\CrudOperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.CrossCutting\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.User.CrossCutting\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.CrossCutting\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.User.CrossCutting\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:12:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.CrossCutting\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Transaction.CrossCutting\\Dtos\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.CrossCutting\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Transaction.CrossCutting\\Dtos\\TransactionDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:09:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.CrossCutting\\Dtos\\ReportDto.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Report.CrossCutting\\Dtos\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.CrossCutting\\Dtos\\ReportDto.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Report.CrossCutting\\Dtos\\ReportDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:09:10.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BudgetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetCategoryDto.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetCategoryDto.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:06:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BudgetDto.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetDto.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetDto.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetDto.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Budget.CrossCutting\\Dtos\\BudgetDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:02:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Transaction.Storage\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\Entities\\Transaction.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Transaction.Storage\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:13:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.Storage\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.User.Storage\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.Storage\\Entities\\User.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.User.Storage\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:23:10.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Common.Storage\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Common.Storage\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:58:30.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionCategory.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\Enums\\TransactionCategory.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Transaction.Storage\\Enums\\TransactionCategory.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Transaction.Storage\\Enums\\TransactionCategory.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Transaction.Storage\\Enums\\TransactionCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:14:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Report.Storage\\Entities\\Report.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Report.Storage\\Entities\\Report.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Report.Storage\\Entities\\Report.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:24:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonalFinanceApp.User.CrossCutting.csproj",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj",
+              "RelativeToolTip": "..\\PersonalFinanceApp.User.CrossCutting\\PersonalFinanceApp.User.CrossCutting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T17:52:58.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\Entities\\Budget.cs",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Budget.Storage\\Entities\\Budget.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Budget.Storage\\Entities\\Budget.cs",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Budget.Storage\\Entities\\Budget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:17:31.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonalFinanceApp.Common.Storage.csproj",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj",
+              "RelativeDocumentMoniker": "..\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj",
+              "RelativeToolTip": "..\\PersonalFinanceApp.Common.Storage\\PersonalFinanceApp.Common.Storage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T17:58:07.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

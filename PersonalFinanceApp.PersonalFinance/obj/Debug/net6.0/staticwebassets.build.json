@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FlGvMFc3OY3OqRfinZJr6o6cU4SkElrnJyzVvf5vwVY=",
+  "Source": "PersonalFinanceApp.PersonalFinance",
+  "BasePath": "_content/PersonalFinanceApp.PersonalFinance",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
