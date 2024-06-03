@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace PersonalFinanceApp.Common.CrossCutting.Dtos
 {
-    public class CrudOperationResult<TDto>
+    public enum CrudOperationResultStatus
     {
-        public CrudOperationResultStatus Status { get; set; }
-        public TDto? Result { get; set; }
+        Success,
+        Failure,
+        RecordNotFound
     }
 }
