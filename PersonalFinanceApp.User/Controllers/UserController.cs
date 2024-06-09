@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using PersonalFinanceApp.Budget.CrossCutting.Dtos;
 using PersonalFinanceApp.User.CrossCutting.Dtos;
 using PersonalFinanceApp.User.Services;
 

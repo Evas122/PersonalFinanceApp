@@ -22,47 +22,54 @@ namespace PersonalFinanceApp.User.Services
 
         public async Task<IEnumerable<TransactionDto>> GetUserTransactionASync(Guid userId)
         {
-            var response = await _httpClient.GetAsync($"http://localhost:5052/transaction/user/{userId}");
+            try
+            {
+                var response = await _httpClient.GetAsync($"http://localhost:5052/transaction/user/{userId}");
 
-            if(response.IsSuccessStatusCode)
-            {
+                response.EnsureSuccessStatusCode();
+
                 var transactions = await response.Content.ReadFromJsonAsync<IEnumerable<TransactionDto>>();
-                return transactions;
+                return transactions;  
             }
-            else
+            catch (Exception ex)
             {
-                throw new Exception("Failed to get user transactions");
+                return Enumerable.Empty<TransactionDto>();
             }
+
         }
 
         public async Task<IEnumerable<BudgetDto>> GetUserBudgetASync(Guid userId)
         {
-            var response = await _httpClient.GetAsync($"http://localhost:5055/budget/user/{userId}");
-
-            if (response.IsSuccessStatusCode)
+            try
             {
+                var response = await _httpClient.GetAsync($"http://localhost:5055/budget/user/{userId}");
+
+                response.EnsureSuccessStatusCode();
+
                 var budgets = await response.Content.ReadFromJsonAsync<IEnumerable<BudgetDto>>();
                 return budgets;
             }
-            else
+            catch (Exception ex)
             {
-                throw new Exception("Failed to get user budgets");
+                return Enumerable.Empty<BudgetDto>();
             }
+            
         }
 
         public async Task<IEnumerable<ReportDto>> GetUserReportASync(Guid userId)
         {
-            var response = await _httpClient.GetAsync($"http://localhost:5034/report/user/{userId}");
-
-            if (response.IsSuccessStatusCode)
+            try
             {
+                var response = await _httpClient.GetAsync($"http://localhost:5034/report/user/{userId}");
+
                 var reports = await response.Content.ReadFromJsonAsync<IEnumerable<ReportDto>>();
                 return reports;
             }
-            else
+            catch(Exception ex)
             {
-                throw new Exception("Failed to get user reports");
+                return Enumerable.Empty<ReportDto>();
             }
+               
         }
 
         public async Task<UserDto> GetById(Guid id)

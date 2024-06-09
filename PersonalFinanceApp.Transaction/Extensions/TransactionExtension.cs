@@ -1,4 +1,5 @@
 ﻿using PersonalFinanceApp.Transaction.CrossCutting.Dtos;
+using PersonalFinanceApp.User.CrossCutting.Dtos;
 using Entities = PersonalFinanceApp.Transaction.Storage.Entities;
 namespace PersonalFinanceApp.Transaction.Extensions
 
