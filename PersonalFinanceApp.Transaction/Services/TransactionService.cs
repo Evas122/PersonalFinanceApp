@@ -14,6 +14,7 @@ namespace PersonalFinanceApp.Transaction.Services
         public TransactionService(TransactionDbContext transactionDbContext) : base(transactionDbContext)
         {
             _transactionDbContext = transactionDbContext;
+            
         }
 
         public async Task<TransactionDto> GetById(Guid id)
@@ -62,5 +63,7 @@ namespace PersonalFinanceApp.Transaction.Services
             var entity = dto.ToEntity();
             return await base.Update(entity);
         }
+
+     
     }
 }

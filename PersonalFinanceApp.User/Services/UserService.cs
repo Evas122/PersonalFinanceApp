@@ -20,58 +20,6 @@ namespace PersonalFinanceApp.User.Services
             _httpClient = httpClient;
         }
 
-        public async Task<IEnumerable<TransactionDto>> GetUserTransactionASync(Guid userId)
-        {
-            try
-            {
-                var response = await _httpClient.GetAsync($"http://localhost:5052/transaction/user/{userId}");
-
-                response.EnsureSuccessStatusCode();
-
-                var transactions = await response.Content.ReadFromJsonAsync<IEnumerable<TransactionDto>>();
-                return transactions;  
-            }
-            catch (Exception ex)
-            {
-                return Enumerable.Empty<TransactionDto>();
-            }
-
-        }
-
-        public async Task<IEnumerable<BudgetDto>> GetUserBudgetASync(Guid userId)
-        {
-            try
-            {
-                var response = await _httpClient.GetAsync($"http://localhost:5055/budget/user/{userId}");
-
-                response.EnsureSuccessStatusCode();
-
-                var budgets = await response.Content.ReadFromJsonAsync<IEnumerable<BudgetDto>>();
-                return budgets;
-            }
-            catch (Exception ex)
-            {
-                return Enumerable.Empty<BudgetDto>();
-            }
-            
-        }
-
-        public async Task<IEnumerable<ReportDto>> GetUserReportASync(Guid userId)
-        {
-            try
-            {
-                var response = await _httpClient.GetAsync($"http://localhost:5034/report/user/{userId}");
-
-                var reports = await response.Content.ReadFromJsonAsync<IEnumerable<ReportDto>>();
-                return reports;
-            }
-            catch(Exception ex)
-            {
-                return Enumerable.Empty<ReportDto>();
-            }
-               
-        }
-
         public async Task<UserDto> GetById(Guid id)
         {
             var user = await base.GetById(id);

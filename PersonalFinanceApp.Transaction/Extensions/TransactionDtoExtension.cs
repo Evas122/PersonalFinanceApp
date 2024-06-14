@@ -1,4 +1,5 @@
 ﻿using PersonalFinanceApp.Transaction.CrossCutting.Dtos;
+using PersonalFinanceApp.User.CrossCutting.Dtos;
 using Entities = PersonalFinanceApp.Transaction.Storage.Entities;
 namespace PersonalFinanceApp.Transaction.Extensions
 {
@@ -14,7 +15,7 @@ namespace PersonalFinanceApp.Transaction.Extensions
                 Amount = dto.Amount,
                 Date = dto.Date,
                 Category = dto.Category,
-                UserId = dto.UserId,
+                UserId = dto.UserId
             };
         }
     }

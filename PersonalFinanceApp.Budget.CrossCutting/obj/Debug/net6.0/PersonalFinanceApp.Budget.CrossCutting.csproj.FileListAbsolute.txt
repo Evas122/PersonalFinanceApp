@@ -19,8 +19,14 @@ C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutt
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.runtimeconfig.json
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.dll
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.pdb
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.Storage.dll
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Common.Storage.dll
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.CrossCutting.dll
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.Storage.dll
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.Storage.pdb
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.CrossCutting.pdb
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Common.Storage.pdb
+C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.Storage.pdb
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.csproj.AssemblyReference.cache
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.AssemblyInfoInputs.cache
@@ -32,9 +38,3 @@ C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutt
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.pdb
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\PersonalFinanceApp.Budget.CrossCutting.genruntimeconfig.cache
 C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\obj\Debug\net6.0\ref\PersonalFinanceApp.Budget.CrossCutting.dll
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.Storage.dll
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Common.Storage.dll
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.Storage.dll
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Budget.Storage.pdb
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.Common.Storage.pdb
-C:\Users\HypX\source\repos\FinanceAppProject\PersonalFinanceApp.Budget.CrossCutting\bin\Debug\net6.0\PersonalFinanceApp.User.Storage.pdb

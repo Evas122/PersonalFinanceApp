@@ -16,8 +16,10 @@ namespace PersonalFinanceApp.Transaction.Extensions
                 Amount = entity.Amount,
                 Date = entity.Date,
                 Category = entity.Category,
-                UserId = entity.UserId,
+                UserId = entity.UserId
             };
+
+  
         }
     }
 }

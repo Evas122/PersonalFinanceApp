@@ -42,26 +42,5 @@ namespace PersonalFinanceApp.User.Controllers
             var operationResult = await _userService.Create(dto);
             return Ok(operationResult.Result);
         }
-
-        [HttpGet("{userId}/transactions")]
-        public async Task<IActionResult> GetUserTransactions(Guid userId)
-        {
-            var transactions = await _userService.GetUserTransactionASync(userId);
-            return Ok(transactions);
-        }
-
-        [HttpGet("{userId}/budgets")]
-        public async Task<IActionResult> GetUserBudgets(Guid userId)
-        {
-            var budgets = await _userService.GetUserBudgetASync(userId);
-            return Ok(budgets);
-        }
-
-        [HttpGet("{userId}/reports")]
-        public async Task<IActionResult> GetUserReports(Guid userId)
-        {
-            var reports = await _userService.GetUserReportASync(userId);
-            return Ok(reports);
-        }
     }
 }
